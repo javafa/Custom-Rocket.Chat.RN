@@ -1,4 +1,4 @@
-# Custom Rocket.Chat.ReactNative application
+# Custom Rocket.Chat.ReactNative
 
 [About Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative)
 
