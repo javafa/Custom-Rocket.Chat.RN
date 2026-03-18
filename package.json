@@ -116,7 +116,7 @@
   "devDependencies": {
     "@babel/core": "^7.6.2",
     "@babel/plugin-proposal-decorators": "^7.6.0",
-    "@babel/runtime": "^7.6.2",
+    "@babel/runtime": "^7.26.10",
     "@storybook/addon-actions": "5.3.18",
     "@storybook/addon-links": "5.3.18",
     "@storybook/addon-storyshots": "5.3.18",
